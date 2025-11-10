@@ -1,0 +1,24 @@
+{
+  "products": [
+    "RTX 3060",
+    "Monitor Gamer 144hz",
+    "PlayStation 5"
+  ],
+  "sources": [
+    "mercadolivre",
+    "amazon"
+  ],
+  "price_limit": {
+    "RTX 3060": 2300,
+    "Monitor Gamer 144hz": 900,
+    "PlayStation 5": 3000
+  },
+  "email": {
+    "enabled": true,
+    "receiver": "destinatario@gmail.com"
+  },
+  "run_options": {
+    "headless": true,
+    "max_wait_seconds": 10
+  }
+}
